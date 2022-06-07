@@ -29,7 +29,7 @@ config.capabilities = [
         // The path to the app
         'appium:app': join(
             process.cwd(),
-            './app/File.apk',
+            './app/SpringHealth-2.17.0(13).apk',
         ),
         // Read the reset strategies very well, they differ per platform, see
         // http://appium.io/docs/en/writing-running-appium/other/reset-strategies/
